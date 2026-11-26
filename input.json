@@ -1,0 +1,10 @@
+{
+  "document": "SERVICES AGREEMENT between Northwind Analytics LLC (\"Provider\") and Harborline Freight Co. (\"Customer\"), effective January 1, 2027.\n1. Services. Provider will run and maintain Customer's demand-forecasting models.\n2. Fees. Customer pays $18,000 per month, invoiced monthly, due within 45 days. Late payments accrue interest at 1.5% per month.\n3. Term. 24 months, renewing automatically for 12-month periods unless either party gives 90 days' written notice.\n4. Termination. Either party may terminate for material breach not cured within 30 days of notice. Customer may terminate for convenience on 120 days' notice and payment of a fee equal to three months of fees.\n5. Liability. Provider's total liability is capped at the fees paid in the prior 3 months.\n6. Data. Provider may use Customer data in anonymized form to improve its services.",
+  "steps": [
+    "Who are the parties, and when does the agreement start?",
+    "What does the customer pay, and when?",
+    "How can each party end the agreement, and what does it cost?",
+    "Using your answers so far, what are the two biggest risks for the customer?"
+  ],
+  "maxTokens": 0
+}

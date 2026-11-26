@@ -1,0 +1,37 @@
+{
+  "done": [
+    {
+      "step": "Who are the parties, and when does the agreement start?",
+      "answer": "The parties are Northwind Analytics LLC (\"Provider\") and Harborline Freight Co. (\"Customer\"). The agreement starts on January 1, 2027.",
+      "attempt": 1,
+      "promptTokens": 247,
+      "outputTokens": 34,
+      "seconds": 18.199656379
+    },
+    {
+      "step": "What does the customer pay, and when?",
+      "answer": "The customer pays $18,000 per month, invoiced monthly, due within 45 days.",
+      "attempt": 1,
+      "promptTokens": 293,
+      "outputTokens": 25,
+      "seconds": 6.110300686
+    },
+    {
+      "step": "How can each party end the agreement, and what does it cost?",
+      "answer": "Either party can terminate for material breach not cured within 30 days. Customer may terminate for convenience with 120 days' notice and payment of three months' fees.",
+      "attempt": 1,
+      "promptTokens": 335,
+      "outputTokens": 37,
+      "seconds": 5.884039521
+    },
+    {
+      "step": "Using your answers so far, what are the two biggest risks for the customer?",
+      "answer": "The two biggest risks for the customer are: 1) Unlimited liability exposure if the provider breaches the agreement, and 2) High termination costs if the customer needs to end the contract early for convenience.",
+      "attempt": 2,
+      "promptTokens": 391,
+      "outputTokens": 42,
+      "seconds": 8.036993669
+    }
+  ],
+  "tokensUsed": 1404
+}
